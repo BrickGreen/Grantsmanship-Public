@@ -1,3 +1,5 @@
+This Grant Management System was developed to facilitate grant writing activities accross teams.
+
 ###################
 What is CodeIgniter
 ###################
